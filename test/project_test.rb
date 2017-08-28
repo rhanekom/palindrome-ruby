@@ -1,4 +1,4 @@
-require "test_helper"
+require 'test_helper'
 
 class ProjectTest < Minitest::Test
   def test_it_does_something_useful
